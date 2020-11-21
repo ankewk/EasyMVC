@@ -1,0 +1,6 @@
+{
+    "name": "easy-mvc",
+    "version": "1.0.0",
+    "description": "A Vue.js project",
+    "main": "src/main.js"
+}
